@@ -153,7 +153,3 @@ O construtor de currículo funciona imediatamente sem a API rodando; só o Save,
 - O backend precisa ser implantado e conectado a uma instância gerenciada do MongoDB separadamente do frontend; `node index.js` ainda não tem um script `npm` dedicado.
 - A integração com `OPENAI_API_KEY` já está ligada no backend (`/chat`), mas ainda não foi exposta na interface.
 - A exportação hoje suporta uma única página; currículos muito longos ainda não são paginados em múltiplas páginas de PDF.
-
-## Licença
-
-Distribuído sob a Licença MIT. Veja [`LICENSE`](./LICENSE) para mais detalhes.
