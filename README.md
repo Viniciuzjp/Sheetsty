@@ -9,7 +9,6 @@ Sheetsty é um construtor de currículos full-stack. Preencha um formulário, ve
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 
@@ -23,7 +22,6 @@ Sheetsty é um construtor de currículos full-stack. Preencha um formulário, ve
 - [Variáveis de Ambiente](#variáveis-de-ambiente)
 - [Scripts Disponíveis](#scripts-disponíveis)
 - [Roadmap e Limitações Conhecidas](#roadmap-e-limitações-conhecidas)
-- [Licença](#licença)
 
 ## Funcionalidades
 
